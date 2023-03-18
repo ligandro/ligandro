@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Enthusiast
 -----------------------
 
-Computer Science Undergraduate in pre-final year. Working on data related projects. Mainly interested in football analytics. Shwocasing my work on twitter. Do check it out there.
+Computer Science Undergraduate in pre-final year. Working on data related projects. Mainly interested in football analytics. Showcasing my work on twitter. Do check it out there.
 
 * 🌍  I'm based in Chennai
 * 🖥️  See my portfolio at [Portfolio](http://ligandro-personal-profile-y0wj5w.streamlit.app/)

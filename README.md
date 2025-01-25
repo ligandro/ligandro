@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ligandro Singh Yumnam
 =============================================================================================================================================
 
-Data Analyst
------------------------
-
-Currently purusing my Masters in Data Science in RWTH,Aachen. Working on data related projects. Mainly interested in football analytics.I showcase my work regularly on twitter. Do check it out there.
+Currently purusing my Masters in Data Science in RWTH,Aachen. I like working on data related projects. Mainly interested in football analytics.I showcase my work regularly on twitter. Do check it out there.
 
 * 🌍  I'm based in Imphal
 * 🖥️  See my portfolio at [Portfolio](https://www.datascienceportfol.io/ligandro)

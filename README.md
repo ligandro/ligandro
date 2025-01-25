@@ -7,7 +7,7 @@ AI Enthusiast
 Computer Science Undergraduate in final year. Working on data related projects. Mainly interested in football analytics. Showcasing my work on twitter. Do check it out there.
 
 * 🌍  I'm based in Imphal
-* 🖥️  See my portfolio at [Portfolio](http://ligandro-personal-profile-y0wj5w.streamlit.app/)
+* 🖥️  See my portfolio at [Portfolio]([http://ligandro-personal-profile-y0wj5w.streamlit.app/](https://www.datascienceportfol.io/ligandro))
 * ✉️  You can contact me at [ligandro2002@gmail.com](mailto:ligandro2002@gmail.com)
 * 🚀  I'm currently working on [Football Web App](http://ligandro-python-scripts-footy-app-irs8yt.streamlit.app/)
 * 🧠  I'm learning about Transformers,LLMs,Open Source Computer Vision APIs

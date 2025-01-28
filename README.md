@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Currently pursuing my Masters in Data Science in RWTH,Aachen. I like working on data related projects. Mainly interested in football analytics.I showcase my work regularly on twitter. Do check it out there.
 
-* 🌍  Currently in Aachen🇩🇪
+* 🌍  Currently in Aachen 🇩🇪
 * 🖥️  See my portfolio at [Portfolio](https://www.datascienceportfol.io/ligandro)
 * ✉️  You can contact me at [ligandro2002@gmail.com](mailto:ligandro2002@gmail.com)
 * 🚀  I'm currently working on [Football Web App](http://ligandro-python-scripts-footy-app-irs8yt.streamlit.app/)

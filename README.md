@@ -6,7 +6,6 @@ Currently pursuing my Masters in Data Science in RWTH,Aachen. I like working on 
 * 🌍  Currently in Aachen 🇩🇪
 * 🖥️  See my portfolio at [Portfolio](https://www.datascienceportfol.io/ligandro)
 * ✉️  You can contact me at [ligandro2002@gmail.com](mailto:ligandro2002@gmail.com)
-* 🚀  I'm currently working on [Football Web App](http://ligandro-python-scripts-footy-app-irs8yt.streamlit.app/)
 * 🧠  I'm learning about Transformers,LLMs,Open Source Computer Vision APIs
 * 🤝  I'm open to collaborating on Data Analytics and Machine learning projects
 
